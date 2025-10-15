@@ -1,3 +1,5 @@
+// Tugas WGTIK
+
 package main
 
 import (
